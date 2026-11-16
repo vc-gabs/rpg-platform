@@ -29,4 +29,4 @@ Nenhuma tarefa de produto autoriza por si só mudanças em servidores, DNS, Clou
 - Use dados fictícios e .env.example com placeholders quando houver configuração.
 - Não copie configurações privadas do homelab para este repositório.
 - Mantenha os originais e alterações do usuário; não faça limpeza destrutiva.
-- Antes de tornar o repositório público, revise conteúdo, dados, histórico e licença. O repositório inicial é privado.
+- O repositório é público por autorização de Gabriel em 16/11/2026. Revise conteúdo, dados e histórico antes de publicar alterações; a escolha da licença permanece pendente.

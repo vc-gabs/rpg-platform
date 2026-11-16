@@ -16,6 +16,6 @@ Framework, banco, formato das fichas, biblioteca de mapas e arquitetura de colab
 
 ## 003 — Visibilidade e licença
 
-**Data:** 2026-11-16. **Status:** configuração inicial privada; publicação e licença pendentes.
+**Data:** 2026-11-16. **Status:** publicação pública autorizada; licença pendente.
 
-Gabriel pretende publicar o código futuramente e explorar monetização. O repositório começa privado, sem atribuir licença open source antes da decisão de publicação.
+O repositório foi criado privado e tornado público em 16/11/2026 por autorização explícita de Gabriel. A intenção de explorar monetização permanece; a publicação não atribui uma licença open source automaticamente.

@@ -35,4 +35,4 @@ Dados de teste devem ser fictícios. Mapas, imagens, fichas e conteúdo de siste
 
 ## Publicação e licença
 
-Repositório inicialmente privado. A intenção de disponibilizar o código não define a licença; a licença de código e as condições de conteúdo serão decididas antes de sua publicação. Não há licença open source atribuída nesta etapa.
+Repositório público por autorização de Gabriel em 16/11/2026. A publicação do código não define a licença: a licença de código e as condições de conteúdo ainda serão escolhidas. Não há licença open source atribuída nesta etapa.
