@@ -1,0 +1,35 @@
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*.json
+
+# Dependências, build e caches (conforme a stack que vier a ser escolhida)
+node_modules/
+.venv/
+__pycache__/
+.next/
+dist/
+build/
+coverage/
+.cache/
+
+# Dados e materiais locais
+uploads/
+private-assets/
+backups/
+*.dump
+*.sql
+*.sqlite
+*.sqlite3
+work/
+outputs/
+.local/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
